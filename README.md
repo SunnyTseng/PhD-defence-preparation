@@ -20,7 +20,7 @@ The official defence will be held at *UNBC* and will follow the formal defence p
 - Form: **Hybrid** 
 - Time: **April 1 (Wed) 9am - 12pm (PT)** 
 - In person location: **RM1079, UNBC Senate Chamber, Prince George**
-- Virtual location: **[Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODEzZDZlN2UtNGM2YS00MzVkLTk2M2MtMDY0YTBkYmM2ZTBl%40thread.v2/0?context=%7b%22Tid%22%3a%22a7ee9abb-4885-492e-b331-a6fa051a39bb%22%2c%22Oid%22%3a%227048092a-e933-4d4e-822d-e8a8637c6c03%22%7d)**
+- Virtual location: **Teams Meeting [link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODEzZDZlN2UtNGM2YS00MzVkLTk2M2MtMDY0YTBkYmM2ZTBl%40thread.v2/0?context=%7b%22Tid%22%3a%22a7ee9abb-4885-492e-b331-a6fa051a39bb%22%2c%22Oid%22%3a%227048092a-e933-4d4e-822d-e8a8637c6c03%22%7d)**
 
 - Time zone calculation fairy 🧚: 
   - New York: 12pm (noon)
