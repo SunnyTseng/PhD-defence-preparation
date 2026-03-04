@@ -15,7 +15,7 @@ Although it’s called a defence practice, I am really treating it as the *UBC v
 
 
 ## 🐦 Defence - April 1 (Hybrid)
-The official defence will be held at *UNBC* and will follow the formal defence procedures, including my PhD supervisor, committee members, and external examiner. Please come joining me in the April fools' day! (I promise this defence announcement is not a joke!) 
+The official defence will be held at *UNBC* and will follow the formal defence procedures, including my PhD supervisor, committee members, and external examiner. Please come join me on the April fools' day! (I promise this defence announcement is not a joke!) 
 
 - Form: **Hybrid** 
 - Time: **April 1 (Wed) 9am - 12pm (PT)** 
