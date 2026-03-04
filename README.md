@@ -10,7 +10,7 @@ Although it’s called a defence practice, I am really treating it as the *UBC v
 
 - Form: **In person**
 - Time: **March 25 (Wed) 3:30 - 5pm (PT)**
-- Location: **RM1024, UBC Biodiversity Center Multipurpose Room, Vancouver**
+- Location: **RM1024 Multipurpose Room, UBC Biodiversity Research Center, Vancouver**
 
 
 
