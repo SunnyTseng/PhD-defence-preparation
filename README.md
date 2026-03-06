@@ -33,7 +33,7 @@ The official defence will be held at *UNBC* and will follow the formal defence p
 
 ![abstract](./docs/17_PhD%20thesis%20abstract.jpg)
 
-## During defence materials 
+## Materials 
 
 - Presentation slides (will be uploaded).
 
