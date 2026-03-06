@@ -33,4 +33,13 @@ The official defence will be held at *UNBC* and will follow the formal defence p
 
 ![17_PhD thesis abstract](https://github.com/user-attachments/assets/ac187cd5-4382-429b-9609-a0757ec26a42)
 
+## During defence materials 
+
+### Presentation slides
+Will be uploaded.
+
+### Full thesis
+
+
+
 ## Look forward to sharing this special experience together!
