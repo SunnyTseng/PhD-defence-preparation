@@ -1,8 +1,11 @@
 # PhD thesis defence
 
+**From Recordings to Ecology: Turning Bird Sounds into Ecological Insights**
+
 Hello! Thank you so much for your interest in attending my PhD defence — it’s truly an exciting milestone for me. This repository will serve as the main hub for all related information, and I will keep it updated. 
 
 The official defence will take place at University of Northern British Columbia (UNBC) in Prince George (hybrid format). To share this special moment with friends and colleagues in Vancouver, where I spent most of my PhD, there will be an in-person practice session at University of British Columbia (UBC). 
+
 
 
 ## 🎙️ Defence practice - March 25 (In person)
