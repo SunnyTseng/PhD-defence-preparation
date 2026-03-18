@@ -23,7 +23,9 @@ The official defence will be held at *UNBC* and will follow the formal defence p
 - Form: **Hybrid** 
 - Time: **April 1 (Wed) 9am - 12pm (PT)** 
 - In person location: **RM1079, UNBC Senate Chamber, Prince George**
-- Virtual location: **Teams Meeting [(meeting link)](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODEzZDZlN2UtNGM2YS00MzVkLTk2M2MtMDY0YTBkYmM2ZTBl%40thread.v2/0?context=%7b%22Tid%22%3a%22a7ee9abb-4885-492e-b331-a6fa051a39bb%22%2c%22Oid%22%3a%227048092a-e933-4d4e-822d-e8a8637c6c03%22%7d)**
+- Virtual location: **Teams Meeting ([meeting link](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2Fmeet%2F23441830041742%3Fp%3DDoaMNVyW9GYfXJuz12&data=05%7C02%7Cstseng%40unbc.ca%7Cac8b5821dd0e423fa26508de7586cc17%7Ca7ee9abb4885492eb331a6fa051a39bb%7C0%7C0%7C639077419413117929%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wrJcZpksJxdv0DZwLk%2BCRab3NyD68fS%2BYHok1Q9dV1E%3D&reserved=0))**
+  - Meeting ID: 234 418 300 417 42
+  - Passcode: Bv6Z4JY2
 
 - Time zone calculation fairy 🧚: 
   - New York: 12pm (noon)
