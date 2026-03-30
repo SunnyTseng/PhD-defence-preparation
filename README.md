@@ -18,7 +18,7 @@ Although it’s called a defence practice, I am really treating it as the *UBC v
 
 ![](./docs/IMG_5888.JPG)
 
-**▲ After-event note**: The UBC practice defense was such a heart-warming event. Thank you to everyone who was there! Here is a shot from that beautiful day. I’ve also shared a more complete set of reflections and notes on my [blog](https://sunnytseng.ca/blog_articles/20260401-phd-defence-%E5%8D%9A%E5%A3%AB%E7%8F%AD%E8%AB%96%E6%96%87%E5%8F%A3%E8%A9%A6/).
+**▲ After-event note**: The UBC practice defense was such a heart-warming event. Thank you to everyone who was there! Here is a shot from that beautiful day. I’ve also shared a more complete set of reflections and notes on my [blog](https://sunnytseng.ca/blog_articles/20260401-phd-defence-%E5%8D%9A%E5%A3%AB%E7%8F%AD%E8%AB%96%E6%96%87%E5%8F%A3%E8%A9%A6/). (Photo credit: Gintas Janulis) 
 
 
 ## 🐦 Defence - April 1 (Hybrid)
