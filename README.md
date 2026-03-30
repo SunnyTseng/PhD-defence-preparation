@@ -44,7 +44,7 @@ The official defence will be held at *UNBC* and will follow the formal defence p
 
 ## Materials 
 
-- Presentation slides (will be uploaded).
+- [Presentation slides](./docs/2026_04_PhD%20defence_20260327.pdf) (PDF).
 
 - [Full thesis](./docs/UNBC_PhD_thesis_full_Sunny_20260214.pdf) (defence version)
 
